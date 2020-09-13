@@ -5,12 +5,6 @@ layout = "post"
 title = "Selective Combinations"
 
 +++
----
-title: Selective Combinations
-layout: post
-type: posts
----
-
 Consider this scenario:
 
 >You have a list of strings with which you have generate ordered selective combinations of strings starting with the first string in the list. Let us say the list of strings is `abc`, `def` and `ghi`. I have to generate ordered combinations of the above list restricted to the ones starting with `abc`.
