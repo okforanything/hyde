@@ -1,6 +1,5 @@
 +++
 date = 2020-05-16T07:00:00Z
-draft = true
 layout = "post"
 title = "Selective Combinations"
 
